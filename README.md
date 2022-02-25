@@ -23,15 +23,33 @@
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
+<p align="center">
+	<a href="anjalikuku098@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/anjali-kukreti"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/anjali-kukreti-04ab671b2/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/anjali___kukreti/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-## My Statistics
-
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=anjali-kukreti&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-kukreti&theme=gruvbox&hide_border=true" />
 </p>
+
+
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=anjali-kukreti&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)" alt="anjali-kukreti" /></p>
+
+<br>
+<br>
+
+  <p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="anjali-kukreti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anjali-kukreti&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali-kukreti&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="anjali-kukreti" height="192px"/>
+<br/>
+</p>
+<br/>
+
+
+<!-- 
 
 ------
 
