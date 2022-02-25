@@ -38,7 +38,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=anjali-kukreti&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)" alt="anjali-kukreti" /></p>
 
 <br>
-<br>
 
   <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="anjali-kukreti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anjali-kukreti&show_icons=true&count_private=true&theme=algolia" height="175px" width="400px"/></a>
