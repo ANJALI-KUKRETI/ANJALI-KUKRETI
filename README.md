@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Anjali Kukreti </h1>
+<h1 align="center">Hi, I am Anjali Kukreti </h1>
 <h3 align="center">Problem Solver | Web Developer</h3>
 
 
@@ -7,15 +7,15 @@
 <p align="center">
   <em>
     Hello, I'm Anjali Kukreti a <b>pre-final year</b> undergraduate from College of Technology, Pantnagar. <br>
-    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
+    <b>A passionate self-learner</b> and a <b>Web Developer</b>
   </em> 
   <br>
 
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+***About me ....***
 
 ✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently learning **MERN Stack**<br>
@@ -23,7 +23,7 @@
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## Connect with me
 
 <p align="center">
 	<a href="anjalikuku098@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
