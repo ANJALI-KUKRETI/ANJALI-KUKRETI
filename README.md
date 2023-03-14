@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Hello, I'm Anjali Kukreti a <b>pre-final year</b> undergraduate from College of Technology, Pantnagar. <br>
+    Hello, I'm Anjali Kukreti a <b>final year</b> undergraduate from College of Technology, Pantnagar. <br>
     <b>A passionate self-learner</b> and a <b>Web Developer</b>
   </em> 
   <br>
