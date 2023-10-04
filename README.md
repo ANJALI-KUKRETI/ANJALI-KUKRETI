@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Hello, I'm Anjali Kukreti a <b>final year</b> undergraduate from College of Technology, Pantnagar. <br>
+    Hello, I'm Anjali Kukreti an undergrad from College of Technology, Pantnagar, Currently working in ALSTOM as a Graduate Engineer Trainee. <br>
     <b>A passionate self-learner</b> and a <b>Web Developer</b>
   </em> 
   <br>
@@ -18,7 +18,6 @@
 ***About me ....***
 
 ✔ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently learning **MERN Stack**<br>
 ✔ I’m looking to collaborate with any **Open - Source Web Development projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
