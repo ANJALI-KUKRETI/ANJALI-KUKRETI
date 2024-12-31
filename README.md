@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Hello, I'm Anjali Kukreti an undergrad from College of Technology, Pantnagar, Currently working in ALSTOM as a Graduate Engineer Trainee. <br>
+    Hello, I'm Anjali Kukreti a graduate from College of Technology, Pantnagar, Currently working in ALSTOM as a Software Engineer. <br>
     <b>A passionate self-learner</b> and a <b>Web Developer</b>
   </em> 
   <br>
